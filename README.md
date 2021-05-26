@@ -1,1 +1,2 @@
-# project-hammer
+# Geologist
+Geologist Project
